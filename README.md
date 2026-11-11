@@ -32,6 +32,8 @@ jupyter notebook "Amarachi Njoku_CMS Chronic diseas data analysis.ipynb"
 - **Highest-cost conditions:** stroke ($31.9K standardized per-capita payment), heart failure ($28.6K) and COPD ($25.4K).
 - **State comparison:** Florida sits above the national figure on all four leading conditions (hyperlipidemia 59% versus 48%), while California sits below it on all four. Texas has the highest average standardized payment of the four target states.
 
+-    ![State vs national prevalence](state_vs_national.png)
+
 ## Limitations
 
 - Covers Medicare beneficiaries only, so it does not describe the general population.
